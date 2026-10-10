@@ -1,6 +1,6 @@
 ## Hi, I'm Charles 👋
 CS @ UNC Charlotte (Dec 2027) · Game dev & backend · Seeking 2027 SWE internships
-> 🔒 Much of my work lives in private repos. Happy to walk through code on request!
+> 🔒 Much of my work lives in private repos (coursework and in-progress projects). Happy to walk through code on request!
 
 ## 🔧 Stack
 
