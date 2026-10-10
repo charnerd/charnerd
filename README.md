@@ -18,9 +18,9 @@ CS @ UNC Charlotte (Dec 2027) · Game dev & backend · Seeking 2027 SWE internsh
 ### 🎮 WIMB — C# / Unity · [Play it](https://play.unity.com/api/v1/games/game/e8278a77-b5d6-4838-9b13-0f013440f82a/build/latest/frame) · [Repo](https://github.com/charnerd/WIMB)
 
 
-- 🔭 I’m currently learning NLP, Computer Vision
-   
-- 🌱 Now: building a 2D level-based game on Unity
+## ⚡ Currently
+- 🔭 Learning NLP and Computer Vision
+- 🌱 Building a 2D level-based game in Unity
 
-- 📫 How to reach me:
-https://www.linkedin.com/in/charles-diggs/
+## 📬 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/charles-diggs/)
