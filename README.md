@@ -17,6 +17,7 @@ CS @ UNC Charlotte (Dec 2027) · Game dev & backend · Seeking 2027 SWE internsh
 
 ### 🎮 WIMB — C# / Unity · [Play it](https://play.unity.com/api/v1/games/game/e8278a77-b5d6-4838-9b13-0f013440f82a/build/latest/frame) · [Repo](https://github.com/charnerd/WIMB)
 
+- 🔒 Some of my work lives in private repos (coursework and in-progress projects). Happy to walk through code on request!
 
 ## ⚡ Currently
 - 🔭 Learning NLP and Computer Vision
